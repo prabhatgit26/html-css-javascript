@@ -1,4 +1,4 @@
-# Analog Clock : 
+# Analog Clock : HTML, CSS & JAVASCRIPT
 
 This project involves the creation of an analog clock using core web technologies: HTML, CSS, and JavaScript. The clock displays real-time hours, minutes, and seconds, with a user-friendly interface styled using CSS.
 
