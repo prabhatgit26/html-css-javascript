@@ -8,5 +8,9 @@ JavaScript: Implemented the logic to move the hands in real-time using the setIn
 This project demonstrates a practical understanding of DOM manipulation, CSS transitions, and basic JavaScript event handling.
 
 
-https://github.com/user-attachments/assets/2460a196-b944-4b41-8a77-28150889eefc
+
+
+
+https://github.com/user-attachments/assets/972d43f6-dab1-42f3-8c32-ca43a91e417e
+
 
